@@ -57,7 +57,7 @@ function draw() {
 
 		distancia = vr.mag();
 
-		desenha_seta(s[i].x, s[i].y, s[i].ang, numero_magico/distancia);
+		desenha_seta(s[i].x, s[i].y, s[i].ang, 1);
 	}
 
 	desenha_coracao();

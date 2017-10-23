@@ -10,7 +10,7 @@ var meuAngulo = 0;
 var s = [];
 var v1, v2, vr;
 var distancia;
-var numero_magico = 100;
+var numero_magico = 110;
 
 function preload() {
 	imgSeta = loadImage('imagem-2.png');
